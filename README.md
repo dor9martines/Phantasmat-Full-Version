@@ -240,4 +240,4 @@ This repository serves as the official landing page for Phantasmat. The software
 **Get the most recent version of Phantasmat today!**
 
 ---
-**Last updated:** 2026-11-04 01:46:39 UTC
+**Last updated:** 2026-11-04 08:23:01 UTC
